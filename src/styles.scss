@@ -1,0 +1,15 @@
+
+
+
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to bottom, rgba(201, 196, 201, 0.3), rgba(199, 199, 199, 0.6)),url(assets/pexels-photo-2129796.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
